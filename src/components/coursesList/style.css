@@ -1,0 +1,26 @@
+@media only screen and (max-width: 600px) {
+    .mob {
+      height:150px;
+    }
+    .mob-p{
+        gap:10px;
+    }
+  }
+
+  @media only screen and (max-width: 370px) {
+    .mob {
+      height: 100px;
+    }
+    .img-cnt{
+        flex-direction: column;
+        
+    }
+    .img-cnt-end{
+        justify-content: flex-start;
+        padding-top:8px;
+    }
+   
+  }
+
+
+   

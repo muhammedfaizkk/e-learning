@@ -1,0 +1,42 @@
+
+
+.topBanner {
+    border-radius: 8px;
+    background: var(--Orange-50, #FF9500);
+
+}
+
+.nav-main-logo svg {
+    border-radius: 8px;
+    background: var(--Orange-50, #FF9500);
+}
+
+.btn-lgn-sign {
+    color: var(--Grey-15, #262626);
+    font-family: "Be Vietnam Pro";
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+    /* 27px */
+}
+
+.login {
+    border-radius: 8px;
+    background: var(--Orange-50, #FF9500);
+}
+
+.nav-options li {
+    color: var(--Grey-15, #262626);
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+    /* 27px */
+}
+
+.nav-home {
+    border-radius: 8px;
+    background: var(--White-95, #F1F1F3);
+}
+.nav-sub svg{
+    background: var(--Orange-50, #FF9500);
+}
